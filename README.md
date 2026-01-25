@@ -79,27 +79,6 @@ This homelab serves as a practical learning environment for modern infrastructur
 - Backup and disaster recovery planning
 - Infrastructure documentation and maintenance
 
-## 📁 Repository Structure
-
-```
-homelab/
-├── docs/
-│   ├── architecture.md          # Detailed architecture documentation
-│   ├── network-diagram.md       # Network topology and configuration
-│   ├── service-guides/          # Individual service setup guides
-│   └── troubleshooting.md       # Common issues and solutions
-├── configs/
-│   ├── pihole/                  # Pi-hole configuration files
-│   ├── wireguard/               # WireGuard config templates
-│   ├── nextcloud/               # Nextcloud setup configs
-│   └── proxmox/                 # Proxmox configuration notes
-├── scripts/
-│   ├── backup/                  # Backup automation scripts
-│   ├── deployment/              # Service deployment scripts
-│   └── monitoring/              # Health check scripts
-└── README.md                    # This file
-```
-
 ## 🔄 Future Improvements
 
 - [ ] Implement Prometheus + Grafana monitoring stack
@@ -115,9 +94,8 @@ homelab/
 Detailed documentation for each component can be found in the `/docs` directory:
 
 - [Architecture Overview](docs/architecture.md)
-- [Network Configuration](docs/network-diagram.md)
-- [Service Setup Guides](docs/service-guides/)
-- [Backup Procedures](docs/backup-procedures.md)
+- [Network Configuration](docs/networking.md)
+
 
 ## 🤝 Contributing
 
