@@ -64,7 +64,7 @@ This homelab serves as a practical learning environment for modern infrastructur
 | **Networking** | WireGuard, Tailscale, Pi-hole, VLANs, NAT, Reverse proxy |
 | **Storage** | ZFS, LVM, NFS |
 | **Security** | UFW, fail2ban, SSL/TLS certificates |
-| **Services** | Nextcloud, Docker, Podman, Nginx, Apache, Active Directory |
+| **Services** | Nextcloud, Vaultwarden, Immich, Docker, Podman, Nginx, Apache, Active Directory |
 
 ## 📋 Key Features & Capabilities
 
