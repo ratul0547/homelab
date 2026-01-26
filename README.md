@@ -31,7 +31,13 @@ This homelab serves as a practical learning environment for modern infrastructur
   - Integration with existing network services
   - MagicDNS
 
-  
+- **Vaultwarden**: Self hosted passwords manager
+  - Cross platform solution for password/secrets.
+  - Custom KDF setup.
+  - Encrypted vaults.
+  - Smaller resource footprint.
+
+
 ### Self-Hosted Applications
 - **Nextcloud**: Private cloud storage and collaboration platform
   - File synchronization across devices
