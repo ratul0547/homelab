@@ -19,17 +19,22 @@ This homelab serves as a practical learning environment for modern infrastructur
   - Point-to-point encrypted tunnels
   - Multi factor authentication system
   - Firewall rules for secure access
-  - Fail2ban to prevent flooding or DoS attacks.
 
 - **Security and Cryptography**
   - Self signed SSL certs
   - Asymmetric key based SSH encryption and authentication
+  - Fail2ban to prevent flooding or DoS attacks.
+ 
+- **Active Directory Server**: Windows active directory server for centralized identity management
+  - MS Windows Server 2022 as the OS.
+  - Centralized user and group policy management for home users and other servers.
+  - Pi-hole as the DNS resolver.
 
 - **Tailscale**: Zero-config mesh VPN
   - Cross-platform device connectivity
   - ACL-based access control
   - Integration with existing network services
-  - MagicDNS
+  - Implementation of MagicDNS for easy-to-remember domains
 
 - **Vaultwarden**: Self hosted passwords manager
   - Cross platform solution for password/secrets.
