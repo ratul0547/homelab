@@ -14,6 +14,8 @@ This homelab serves as a practical learning environment for modern infrastructur
   - DHCP server for network management
   - Query logging and analytics dashboard
 
+- **Windows AD Server**: Centralized management platform for 
+
 ### Security & Remote Access
 - **WireGuard VPN**: Secure remote access to homelab resources
   - Point-to-point encrypted tunnels
@@ -48,6 +50,7 @@ This homelab serves as a practical learning environment for modern infrastructur
   - Automatic images and videos backup accross devices
   - Manage Duplicates
   - Multi user support
+
 
 ### Virtualization Platform
 - **Proxmox VE**: Enterprise virtualization environment
